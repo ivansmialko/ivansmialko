@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-🖥️ C++ Developer
+🖥️ C++ Game Developer
 
-🌱 Currently learning Unreal Engine
+🌱 Learning Unreal Engine
 
-https://www.codewars.com/users/smialko/badges/large
+✨ Working at AB Games
+
+🇺🇦 Living in Ukraine, Rivne
+
 
 [![CodeWars](https://www.codewars.com/users/smialko/badges/large)](https://www.codewars.com/users/smialko)
 
